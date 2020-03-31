@@ -1,0 +1,5 @@
+# iMove
+This watchOS application that I built my own workout app. The official workout app that watchOS ships with has some features that makes it difficult to use. For example – if the user is moving at a fairly fast pace and glanced down at the watch to see the status, you don’t have time to focus on a lot of details. But sadly, Apple’s own app tries to show its user the time, speed, heart rate and distance covered, all on one screen. When often all that user cares about is one of those values at a time. So, my workout app will be tracking the time, speed, heart rate, calories burnt and distance cover continuously but will display one value at a time using a nice big font. User can just tap their watch to change the current displayed value. This feature makes my workout app perfect when the user is working out rather quickly. Also, user can configure app for cycling, running, swimming, wheelchair, lacrosse, platies and a whole host of activities.
+
+In this project, I learnt to use Health Kit on Apple Watch and found an alternative way to use buttons with custom controls. I also learnt working with updateHandler(), predicates, query and health store.
+
